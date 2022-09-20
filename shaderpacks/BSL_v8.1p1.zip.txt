@@ -1,0 +1,4 @@
+#Sun Jun 05 18:23:29 SGT 2022
+MOTION_BLUR_STRENGTH=0.25
+shadowDistance=512.0
+shadowMapResolution=4096
